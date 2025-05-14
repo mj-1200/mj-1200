@@ -1,4 +1,4 @@
--🏢  I'm studying Computer Science from VIT Bhopal.
+
 
 -💬  I like to talk about Android and Web Development.
 
